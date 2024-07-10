@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm IJJU HEMANTH KUMAR</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Aspiring Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemu-777&label=Profile%20views&color=0e75b6&style=flat" alt="hemu-777" /> </p>
 
-- 🌱 I’m currently learning **React js , Node js**
+- 🌱 I’m currently learning Power Bi, **Excel, Tableau, Sql
 
 - 📫 How to reach me **ijjuhemanthkumar@gmail.com**
 
