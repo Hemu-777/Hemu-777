@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemu-777&label=Profile%20views&color=0e75b6&style=flat" alt="hemu-777" /> </p>
 
-- 🌱 I’m currently learning Power Bi, **Excel, Tableau, Sql
+- 🌱 Skilled at Power Bi, **Excel, Tableau, Sql, python
 
 - 📫 How to reach me **ijjuhemanthkumar@gmail.com**
 
